@@ -9,7 +9,7 @@ I am a versatile developer with a passion for building immersive worlds and inte
 ### 🚀 Domain Expertise
 
 * **Game Development:** Creating interactive experiences using **Unity** & **C#**.
-* **Full Stack Web:** Building scalable apps with **React**, **Flask**, and **AWS**.
+* **Full Stack Web:** Building scalable apps with **React**, **Flask**, & **AWS**.
 * **AI/ML:** Integrating intelligence into applications using **Python**.
 * **Problem Solving:** Active competitive programmer with a strong grasp of **DSA**.
 
