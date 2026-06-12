@@ -1,4 +1,4 @@
-# Hi there, I'm Priyank 👋
+# Hey there, I'm Priyank 👋
 
 ### 👨‍💻 Full Stack | 🎮 Game Dev | 🧠 AI/ML Enthusiast
 
